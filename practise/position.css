@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: 2px solid black;
+    margin: 34px;
+    position: relative;
+}
+.container .box1{
+    margin: 20px;
+    background-color: blue;
+    position: relative;
+    top: 0;
+    right: 34px;
+    color: black;
+    padding: 20px;
+    width: 30vh;
+}
+.container .box2{
+    margin: 15px;
+    background-color: red;
+    color: black;
+    padding: 20px;
+    width: 30vh;
+}
